@@ -1,0 +1,3 @@
+@echo off
+echo toto > fichier.txt
+echo Le texte "toto" a été écrit dans le fichier fichier.txt.
